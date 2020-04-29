@@ -1,5 +1,4 @@
-# Jurnal 7
-## Overload Operator
+# Overload Operator
 
 Kali ini kita akan membuat sebuah aplikasi sederhana dengan mengimplementasikan **_Overload Operator_** serta **_Inheritance_** di dalam programnya.
 
